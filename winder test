@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Visit Winder, Georgia</title>
+  </head>
+  <body>
+    <h1>Welcome to Winder, Georgia</h1>
+    <img src="fort-yargo-state-park.jpg" alt="Fort Yargo State Park">
+    <p>Located in the rolling hills of Northeast Georgia, Winder is a charming town with a rich history and plenty of outdoor recreation opportunities. One of the area's top attractions is Fort Yargo State Park, where visitors can hike, bike, fish, and camp.</p>
+    <h2>Things to Do in Winder</h2>
+    <ul>
+      <li>Explore the trails at Fort Yargo State Park</li>
+      <li>Visit the Winder History Museum</li>
+      <li>Take a stroll through the beautiful downtown area</li>
+      <li>Try your luck at Chateau Elan Winery and Resort</li>
+    </ul>
+    <p>We hope you enjoy your visit to Winder!</p>
+  </body>
+</html>
